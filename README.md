@@ -1,6 +1,3 @@
-#SourceCode z pierwszego poradnika
-Macie tutaj SorceCode
-
 Autorem jest The Młody#1477
 
 Discord: z innymi SorceCode https://discord.gg/tvZrZazZtJ
